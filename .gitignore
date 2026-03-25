@@ -28,6 +28,25 @@
 *.so.*
 *.dylib
 
+# Compiled Binaries (Derlenmiş dosyalar)
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# IDE Settings (VS Code özel ayarları)
+.vscode/
+
+# Temporary Files (Geçici dosyalar)
+*.tmp
+*.log
+io_test_*.tmp
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
 # Executables
 *.exe
 *.out
